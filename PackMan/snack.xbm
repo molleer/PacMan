@@ -1,0 +1,4 @@
+#define snack_width 2
+#define snack_height 2
+static unsigned char snack_bits[] = {
+   0x03, 0x03 };

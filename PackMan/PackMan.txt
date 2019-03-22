@@ -1,0 +1,1 @@
+./Debug/startup.c.o ./Debug/systick.c.o ./Debug/Image.c.o ./Debug/snack.c.o ./Debug/keyb.c.o ./Debug/PackMan.c.o ./Debug/graphic-disp.c.o ./Debug/alfa-disp.c.o   
